@@ -11,7 +11,7 @@ package TermEq "Excercise in thermodynamic equilibrium"
   annotation(uses(Modelica(version = "3.0.1")), Documentation(info = "<html>
 <p>This is an example of component oriented modeling of a thermal system.</p>
 
-<p>The system consists of warm weights being placed in a glass of (cold) water and a thermal equilibrium being reached after some time.</p>
+<p>The system consists of hot weights being placed in a glass of (cold) water and a thermal equilibrium being reached after some time.</p>
 </html>"));
   package Boundaries
     model FixedTemperature
